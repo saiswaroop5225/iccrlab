@@ -68,7 +68,7 @@ window.onload = function (e) {
                  <div class="row justify-content-center">
                       <div class="col-auto">
                         <section class="sec Copyright">
-                          <p class="footer_p_i_h2_a footer_p_i_a">Copyright © Intelligent Communication and Computational Research Laboratory| All Rights Reserved | <a href="https://www.linkedin.com/in/sunnam-sai-jyothi-swaroop" target="_blank" style="color: teal;cursor: pointer;">Website Developed By S Sai Jyothi Swaroop</a> <a style="color: teal;cursor: pointer;" href="https://www.linkedin.com/in/manavarthi-venkat-rao?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bi%2B9dH7EqRVKLiciXidLBRg%3D%3D" target="_blank">and M Venkat Rao </a>|</p>
+                          <p class="footer_p_i_h2_a footer_p_i_a">Copyright © Intelligent Communication and Computational Research Laboratory| All Rights Reserved | <a href="https://www.linkedin.com/in/sunnam-sai-jyothi-swaroop" target="_blank" style="color: teal;cursor: pointer;">Website Developed By S Sai Jyothi Swaroop</a>|</p>
                   </section>
                       </div>
                  </div>
